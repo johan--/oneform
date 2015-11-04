@@ -4,7 +4,8 @@
 -- finals (lazy) and at function to manage which of a document source is most
 -- recent give a date.
 
-create extension "uuid-ossp";
+-- create extension "uuid-ossp";
+
 --;;
 -- function for idempotent add_column
 CREATE OR REPLACE function f_add_column(
