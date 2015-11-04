@@ -12,3 +12,6 @@ profiles.clj
 .nrepl-port
 /resources/public/js/out
 *.001
+
+.idea
+
